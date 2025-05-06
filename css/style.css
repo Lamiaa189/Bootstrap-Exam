@@ -57,7 +57,7 @@ p {
   margin: 0;
 }
 
-.sec-title::after {
+.sec-title h3::after {
   content: "";
   position: absolute;
   width: 100%;
